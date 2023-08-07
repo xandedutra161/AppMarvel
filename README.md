@@ -6,7 +6,7 @@ Essa API permite que desenvolvedores de software acessem e interajam com uma amp
 O aplicativo apresenta a função de pesquisar e favoritar seus personagens favoritos, utilizando o padrão de Arquitetura MVVM e Clean Architecture.
 
 ###### Setup
-- O aplicativo depende da chave privada e pública, que pode ser obtida pelo API Marvel Comics, mais informações em "https://developer.marvel.com/".
+- O aplicativo depende da chave privada e pública, que pode ser obtida na API Marvel Comics, mais informações em "https://developer.marvel.com/".
 - Se você não possui uma conta, deverá ser criado uma conta para obter as chaves da API.
 - **Informe as chaves nos campos "PUBLIC_KEY" e "PRIVATE_KEY"** no arquivo Constants do projeto antes de compilar o projeto.
 
