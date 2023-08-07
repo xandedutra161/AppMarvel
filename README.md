@@ -8,7 +8,7 @@ O aplicativo apresenta a função de pesquisar e favoritar seus personagens favo
 ###### Setup
 - O aplicativo depende da chave privada e pública, que pode ser obtida na API Marvel Comics, mais informações em "https://developer.marvel.com/".
 - Se você não possui uma conta, deverá ser criado uma conta para obter as chaves da API.
-- **Informe as chaves nos campos "PUBLIC_KEY" e "PRIVATE_KEY"** no arquivo Constants do projeto antes de compilar o projeto.
+- Informe as chaves nos campos **"PUBLIC_KEY"** e **"PRIVATE_KEY"** no arquivo Constants do projeto antes de compilar o projeto.
 
 ###### Bibliotecas externas usadas
 - Room -> Componente do Android Jetpack que facilita a criação, o gerenciamento e a interação com bancos de dados locais em App's.
