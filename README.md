@@ -24,5 +24,5 @@ O aplicativo apresenta a função de pesquisar e favoritar seus personagens favo
 - Glide -> Biblioteca de carregamento e cache de imagens para Android focada em rolagem suave.
 - Timber -> Ferramenta de registro de log de código aberto.
 
-![marvel](https://github.com/xandedutra161/AppMarvel/assets/141428908/f0a61ba3-22d6-46be-83fe-c9fd21248fee)
+![marvel](https://github.com/xandedutra161/AppMarvel/assets/141428908/b8bbc88b-3c21-4f1d-886d-f7e637643593)
 ![marvel](https://github.com/xandedutra161/AppBrasileirao/assets/141428908/f87b3064-c6db-495d-86c5-ddf236f4bc19)
